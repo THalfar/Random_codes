@@ -149,6 +149,9 @@ def sudoku_solver_ac3(taulu):
 
 # Testataan AC3 ratkaisijaa vaikeaan tapaukseen 
 # https://www.ibm.com/developerworks/community/blogs/jfp/entry/solving_the_hardest_sudoku?lang=en
+# EDIT (after so many years when going through my old codes) the url is old and not working. The "World's Hardest Sudoku" can be found for example:
+# https://www.conceptispuzzles.com/index.aspx?uri=info/article/424
+
 
 tosi_vaikee_sudoku = np.array([[8,0,0,0,0,0,0,0,0],
                               [0,0,3,6,0,0,0,0,0],
