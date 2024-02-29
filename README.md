@@ -1,2 +1,2 @@
 # Random_codes
-Some random codes from different courses at TUT
+This repo contains codes from my study days at Tampere University of Technology.
